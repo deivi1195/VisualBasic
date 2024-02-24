@@ -1,0 +1,30 @@
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\bin\Debug\Dado virtual.exe
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\bin\Debug\Dado virtual.pdb
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\bin\Debug\Dado virtual.xml
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado_virtual.Form1.resources
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado_virtual.Resources.resources
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado virtual.vbproj.GenerateResource.Cache
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado virtual.exe
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado virtual.xml
+C:\Users\deivi\AppData\Local\Temporary Projects\Dado virtual\obj\x86\Debug\Dado virtual.pdb
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado virtual.exe
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado virtual.xml
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado virtual.pdb
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\bin\Debug\Dado virtual.exe
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\bin\Debug\Dado virtual.pdb
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\bin\Debug\Dado virtual.xml
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado_virtual.Form1.resources
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado_virtual.Resources.resources
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado virtual.vbproj.GenerateResource.Cache
+C:\Users\deivi\onedrive\documents\visual studio 2010\Projects\Dado virtual\Dado virtual\obj\x86\Debug\Dado_virtual.Form2.resources
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado virtual.exe
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado virtual.xml
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado virtual.pdb
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado_virtual.Form1.resources
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado_virtual.Form2.resources
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado_virtual.Resources.resources
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado virtual.vbproj.GenerateResource.Cache
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\bin\Debug\Dado virtual.exe
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\bin\Debug\Dado virtual.pdb
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\bin\Debug\Dado virtual.xml
+C:\Users\deivi\OneDrive\Documents\Visual Studio 2010\Projects\Ruleta\Dado virtual\obj\x86\Debug\Dado_virtual.Form3.resources
